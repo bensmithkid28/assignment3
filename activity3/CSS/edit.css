@@ -1,0 +1,40 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkkhaki;
+    background-color: darkslategrey;
+}
+
+h1{
+    color: rgba(2, 207, 207, 0.411);
+    padding-left: 44pt;
+}
+h5{
+    font-size: 20px;
+  padding-left: 40pt;
+    color: rgba(0, 211, 35, 0.589);
+}
+h3{
+    font-size: 40px;
+    font-style: oblique;
+    color: lawngreen;
+}
+img {
+    height: 100px;
+    text-align: left;
+}
+
+figcaption span{
+    font-size:  2.9em;
+    font-style: initial;
+    font-weight: 600;
+}
+
+div.bottom{
+    padding-left: 20px;
+    font-size: larger;
+}
+div.middle{
+    padding-top: 40pt;
+text-align: center;
+    font-weight: bold;
+}
